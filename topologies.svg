@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="182.19092mm"
-   height="168.79181mm"
-   viewBox="0 0 645.55837 598.08121"
+   width="209.29448mm"
+   height="213.14099mm"
+   viewBox="0 0 741.59461 755.22398"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="198.66154"
-     inkscape:cy="289.41984"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="172.99055"
+     inkscape:cy="226.43485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,7 +56,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-66.634635,-22.98133)">
+     transform="translate(-66.634665,-22.981341)">
     <rect
        style="fill:#ffffff;stroke:#ffffff;stroke-width:0.0859553;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect6192"
@@ -1650,7 +1650,7 @@
          y="319.0676"
          id="tspan5911-1-7">Monitors | SMS | Cloud</tspan></text>
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 118.78373,251.97802 23.10724,-21.33947"
        id="path6402"
        inkscape:connector-curvature="0" />
@@ -1660,7 +1660,7 @@
        d="m 146.11327,230.6391 c 1.0065,0.80046 2.09062,1.48977 3.15705,2.20483 0.89646,0.6116 1.87785,1.0765 2.83693,1.57608 0.45756,0.23835 0.90409,0.49731 1.35824,0.74209 1.2057,0.61842 2.28527,1.43784 3.39079,2.21284 0.14169,0.10374 0.28636,0.20352 0.42507,0.31122 0.50593,0.39282 0.35761,0.31703 0.86514,0.70289 0.47592,0.36185 0.97608,0.69452 1.46105,1.04416 0.58453,0.46194 0.2959,0.24214 0.86468,0.66097 0,0 -2.17767,1.37662 -2.17767,1.37662 l 0,0 c -0.55771,-0.43025 -0.27493,-0.20869 -0.84792,-0.6652 -0.93011,-0.6712 -1.86573,-1.33075 -2.75594,-2.05517 -1.07348,-0.79527 -2.15622,-1.58125 -3.34124,-2.20609 -1.40645,-0.76704 -2.85073,-1.4692 -4.19508,-2.34429 -0.23312,-0.15161 -0.46623,-0.30321 -0.69935,-0.45482 -0.22513,-0.13894 -0.45346,-0.27281 -0.67538,-0.41682 -0.63829,-0.41422 -1.23791,-0.88754 -1.89609,-1.27175 0,0 2.22973,-1.41756 2.22973,-1.41756 z"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.20000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 144.49175,230.52679 43.74999,20.71429"
        id="path6436"
        inkscape:connector-curvature="0" />
